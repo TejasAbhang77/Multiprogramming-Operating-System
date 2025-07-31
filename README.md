@@ -6,17 +6,18 @@ This repository contains the implementation of a **Multiprogramming Operating Sy
 
 ## 📂 Project Structure
 
-├── phase1.cpp # Phase I implementation (basic OS simulation)
-├── phaseII.cpp # Phase II implementation (adds paging, errors, multiprogramming)
-├── input1.txt # Input for Phase I
-├── output1.txt # Output for Phase I
-├── input2.txt # Input for Phase II
-├── output2.txt # Output for Phase II
-├── MOS_phaseI_doc.pdf # Documentation for Phase I
-├── MOS_phaseII_doc.pdf# Documentation for Phase II
-├── README.md # Project overview and usage
-
----
+```text
+MOS-Project/
+├── phase1.cpp          # Phase I implementation (basic OS simulation)
+├── phaseII.cpp         # Phase II implementation (adds paging, errors, multiprogramming)
+├── input1.txt          # Input for Phase I
+├── output1.txt         # Output for Phase I
+├── input2.txt          # Input for Phase II
+├── output2.txt         # Output for Phase II
+├── MOS_phaseI_doc.pdf  # Documentation for Phase I
+├── MOS_phaseII_doc.pdf # Documentation for Phase II
+├── README.md           # Project overview and usage
+```
 
 ## 🚀 Phase I Overview
 
@@ -65,3 +66,9 @@ g++ phase1.cpp -o phase1
 
 g++ phaseII.cpp -o phaseII
 ./phaseII
+
+```
+## 👥 Contributors
+
+- **Tejas Abhang** – [GitHub](https://github.com/TejasAbhang77)
+- **Adnaan Momin** – [GitHub](https://github.com/Adnaan29)
