@@ -1,0 +1,44 @@
+Program terminated abnormally. OPERATION CODE ERROR
+JobID : 1 IC : 3 IR : SD10 SI : 0 PI : 1 TI : 0 TTC : 4 LLC : 0 TTL : 7 TLL : 2 
+
+
+Program terminated abnormally. OPERAND ERROR
+JobID : 2 IC : 8 IR : PDF0 SI : 0 PI : 2 TI : 0 TTC : 11 LLC : 0 TTL : 14 TLL : 4 
+
+
+Program terminated abnormally. INVALID PAGE FAULT
+JobID : 3 IC : 18 IR : PD80 SI : 0 PI : 3 TI : 0 TTC : 26 LLC : 0 TTL : 29 TLL : 1 
+
+
+HELLO   
+WORLD   
+Program terminated normally.
+JobID : 4 IC : 5 IR : H    SI : 3 PI : 0 TI : 2 TTC : 7 LLC : 2 TTL : 7 TLL : 2 
+
+
+print1  
+print2  
+Program terminated abnormally. TIME LIMIT EXCEEDED ERROR
+JobID : 5 IC : 6 IR : PD30 SI : 0 PI : 0 TI : 2 TTC : 9 LLC : 2 TTL : 9 TLL : 4 
+
+
+print1  
+print2  
+print3  
+print1  
+Program terminated abnormally. LINE LIMIT EXCEEDED ERROR
+JobID : 6 IC : 9 IR : PD50 SI : 2 PI : 0 TI : 0 TTC : 12 LLC : 4 TTL : 14 TLL : 4 
+
+
+Program terminated abnormally. OUT OF DATA ERROR
+JobID : 7 IC : 2 IR : GD20 SI : 1 PI : 0 TI : 0 TTC : 3 LLC : 0 TTL : 7 TLL : 2 
+
+
+Program terminated abnormally. TIME LIMIT EXCEEDED AND OPERATION CODE ERROR
+JobID : 8 IC : 3 IR : SD10 SI : 0 PI : 1 TI : 2 TTC : 4 LLC : 0 TTL : 4 TLL : 2 
+
+
+Program terminated abnormally. TIME LIMIT EXCEEDED AND OPERAND CODE ERROR
+JobID : 9 IC : 3 IR : PDF0 SI : 0 PI : 2 TI : 2 TTC : 4 LLC : 0 TTL : 4 TLL : 2 
+
+
